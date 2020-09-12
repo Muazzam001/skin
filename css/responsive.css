@@ -1,0 +1,59 @@
+@media (min-width: 992px) and (max-width: 1199px){
+	.navbar_menu{
+		padding-left: 0;
+	}
+	.navbar_menu li{
+		padding-left: 0;
+	}
+	.navbar_menu a{
+		padding-right: 8px !important;
+		padding-left: 8px !important;
+	}
+	.icon_list li{
+		padding-left: 12px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px){
+	.navbar_menu li{
+		padding-left: 0;
+	}
+	.navbar_menu a{
+		padding-right: 8px !important;
+		padding-left: 8px !important;
+	}
+	.blood-register-img{
+		text-align: center;
+	}
+	.social-icon-media{
+		text-align: center;
+	}
+	.search-img{
+		padding-top: 75%;
+	}
+}
+@media (max-width: 768px){
+	.icon_menu{
+		display: none;
+	}
+	.blood-form{
+		float: none;
+	}
+	.blood{
+		margin-top: 15px;
+	}
+	.blood-register-img{
+		text-align: center;
+	}
+	.icon_list li{
+		padding-left: 12px;
+	}
+	.social-icon-media{
+		text-align: center;
+	}
+	/*.footer-list li{
+		border-right: none;
+	}*/
+	.invite-media li{
+		padding-left: 20px;
+	}
+}
